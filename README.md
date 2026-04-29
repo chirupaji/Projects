@@ -5,3 +5,11 @@ This project analyzes a $435M lending portfolio to derive actionable insights fo
 CUSTOMER CHURN PREDICTION MODEL
 
 This project focuses on building an end-to-end customer churn prediction pipeline to identify at-risk customers and enable proactive retention strategies. Using Python, the workflow included data cleaning, preprocessing, exploratory data analysis, and feature engineering to uncover key factors influencing churn behavior. Multiple machine learning techniques were explored, and a KNN model was developed and optimized using Recursive Feature Elimination (RFE) and GridSearchCV to improve predictive performance. The model was evaluated using metrics such as F1-score and ROC-AUC to ensure a balance between precision and recall, providing reliable insights into customer churn patterns and supporting data-driven decision-making for customer retention.
+
+NETFLIX POWER BI DASHBOARD
+
+Developed an interactive Tableau dashboard to analyze Netflix’s content library of 8,000+ titles, focusing on content distribution, genre trends, ratings, and release patterns across different countries and time periods. The dashboard provides actionable insights into how Netflix’s catalog has evolved over time, highlighting shifts in content strategy, popular genres, and regional content preferences.
+
+Key analyses include:
+
+Distribution of movies vs TV shows across the platform Trend analysis of content release over the years Genre-wise popularity and content concentration Country-wise content production and availability Ratings distribution and maturity level insights
